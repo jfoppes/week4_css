@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(145, 142, 95);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header {
+    padding: 1%;
+    margin: 2%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(70, 70, 70);
+}
+nav {
+
+}
+nav li a{
+    color: rgb(255, 255, 255);
+}
+nav li a:hover{
+    color: brown;
+}
+main{
+    padding: 20px;
+    margin: 10px;
+}
+footer{
+    padding: 1%;
+    margin: 2%;
+    background-color: rgb(108, 128, 68);
+    color: rgb(193, 193, 193);
+}
+footer a{
+    color: rgb(255, 255, 255);
+}
+footer a:hover{
+    color: rgb(94, 147, 194);
+}
